@@ -1,0 +1,3 @@
+Images of feature maps from the output of backbone of Mask R-CNN.
+Figures with prefix 'm1' are without a feature noise layer and 'm2' with a feature noise layer. 
+The suffix '_noise' indicates model was in train mode when feature map was generated in eval mode otherwise
